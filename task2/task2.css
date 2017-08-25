@@ -1,0 +1,77 @@
+body {
+	background-color: #b8b8b8;
+	font-size: 13px;
+	line-height: 18px;
+	color: #333;
+}
+#content {
+	width: 800px;
+	padding: 20px 30px 20px 30px;
+	background-color: #fff;
+	margin: auto;
+}
+
+h1 {
+	font-size: 26px;
+	line-height: 30px;
+	color: #333;
+	font-weight: normal;
+	padding-top: 20px;
+	padding-bottom: 10px;
+
+}
+h2 {
+	font-size: 26px;
+	line-height: 46px;
+	color: #333;
+	font-weight: normal;
+	font-style: italic;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	
+}
+.fixed {
+	
+	position: fixed;
+	top: 20px;
+	right: 0px;
+	width: 200px;
+	padding: 20px;
+	font-style: italic;
+	background-color: #666;
+	color: #fff;
+}
+#puzzle {
+	background-image: url("v5/v5-watermark.jpg");
+	background-repeat: no-repeat;
+    background-position: 0px 0px;
+	height: 453px;
+	width: 604px;
+	position: relative;
+	margin: auto;
+	border: 5px solid #333;
+
+}
+#puzzle img {
+	position: absolute;
+}
+#puzzle #img1 { top: 0px; left: 0px; }
+#puzzle #img2 { top: 0px; left: 118px; }
+#puzzle #img3 { top: 0px; left: 201px; }
+#puzzle #img4 { top: 0px; left: 369px; }
+#puzzle #img5 { top: 0px; right: 0px; }
+#puzzle #img6 { left: 0px; top: 74px; }
+#puzzle #img7 { top: 107px; left: 86px; }
+#puzzle #img8 { top: 80px; left: 234px }
+#puzzle #img9 { top: 119px; right: 89px; }
+#puzzle #img10 { top: 81px; right: 0px; }
+#puzzle #img11 { left: 0px; top: 228px; }
+#puzzle #img12 { top: 190px; left: 119px; }
+#puzzle #img13 { top: 224px; left: 202px; }
+#puzzle #img14 { top: 188px; left: 360px; }
+#puzzle #img15 { top: 196px; left:500px; }
+#puzzle #img16 { bottom: 0px; left: 0px; }
+#puzzle #img17 { bottom: 0px; left: 86px; }
+#puzzle #img18 { bottom: 0px; left: 238px; }
+#puzzle #img19 { top: 389px; left:357px; }
+#puzzle #img20 { top: 365px; left:563px; }
