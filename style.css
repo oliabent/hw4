@@ -94,7 +94,7 @@ a.button:hover {
 	text-decoration: none;
 	background-image: url("img/button-1.png");
 	background-repeat: no-repeat;
- background-position: bottom;
+ background-position: center;
 }
 
 
@@ -106,7 +106,7 @@ display: block;
 	text-decoration: none;
 	background-image: url("img/button-1.png");
 	background-repeat: no-repeat;
- background-position: 0px 0px;
+ background-position: bottom;
 }
 
 
